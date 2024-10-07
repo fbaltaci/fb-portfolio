@@ -1,0 +1,15 @@
+.footer-component {
+  display: flex;
+}
+
+.footer-component-right {
+  margin-left: auto;
+}
+
+.footer-component-right--menu-items {
+  display: flex;
+}
+
+.menu-item {
+  margin: 0 1.5rem 0 1.5rem;
+}

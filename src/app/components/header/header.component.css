@@ -1,0 +1,13 @@
+.header-component {
+  display: flex;
+  margin-right: auto;
+}
+
+.header-component--menu-items {
+  display: flex;
+  margin-left: auto;
+}
+
+.menu-item {
+  margin: 0 1.5rem 0 1.5rem;
+}
